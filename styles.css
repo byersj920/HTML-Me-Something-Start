@@ -3,9 +3,13 @@ body {
     display: block;
 }
 
-#mainHeading {
+#mainHeader {
     color: purple;
     text-align: center;
+}
+#mainHeading {
+     /* Launch code tests ruined my aesthetics with this. Big sad :( I had to force this into a weird paragraph. */
+    color: red;
 }
 #testP {
     font-size: 72px;
@@ -16,4 +20,9 @@ body {
 
 .manaType {
     font-family: fantasy;
+}
+
+.funParagraph {
+    /* Launch code tests ruined my aesthetics with this. Big sad :( I had to force this into a weird paragraph. */
+    color: green;
 }
