@@ -1,1 +1,19 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading {
+    color: purple;
+    text-align: center;
+}
+#testP {
+    font-size: 72px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(164, 13, 164);
+}
+
+.manaType {
+    font-family: fantasy;
+}
